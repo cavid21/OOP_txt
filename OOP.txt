@@ -1,0 +1,9 @@
+   1 oop object oriented programming 
+oop-de her sey obyekte esaslanir ve kompleks dizayndan ist olunur
+   2 pop prosedural oriented programminq
+pop-de ise kompleks code olur ve disayn cox sade olur
+   3 oop-de classlar qelib rolu oynuyur
+   4 oop-de obyektler ise qeliblerden duzeldilirð
+   5 oop-de construktor ise obyekti yaradan zaman default olaraq classlar verdiyimiz deyerlerdir
+
+   oop-nin musbet ceheti kod tekrarinin azaldilmasidir ona gore de qisa yazdim herseyi ))))) 
